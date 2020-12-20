@@ -1,3 +1,20 @@
 .container {
   background-color: yellow;
+  border: 5px solid blue;
+}
+
+.introduction {
+  font-size: 3rem;
+  font-weight: bold;
+  background-color: red;
+}
+
+.mainPart {
+  background-color: green;
+}
+
+.ending {
+  padding-top: 50px;
+  font-size: 1.5 rem;
+  background-color: brown;
 }
